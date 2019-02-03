@@ -1,0 +1,12 @@
+.CheckedoutProduct{
+    width: 30%;
+    height: 50px;
+    text-align: left;
+    font-weight:bold ;
+    font-size: 1 rem;
+    margin: 0;
+    color:green;
+    float: left;
+}
+.CheckRow { width: 100%; display: table; }
+.cResults { float: left; }

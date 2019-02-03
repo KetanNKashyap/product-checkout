@@ -1,0 +1,22 @@
+.BuildControls {
+    align-items: center;
+    margin: auto;
+    padding: 10px 0;
+}
+
+.CheckoutButton {
+    background-color: #DAD735;
+    outline: none;
+    cursor: pointer;
+    border: 1px solid #966909;
+    color: #966909;
+    font-family: inherit;
+    box-shadow: 2px 2px 2px #966909;
+    padding: 7px;
+}
+.bLabel {
+    float: left;
+    width: 180px;
+    font-weight: bold;
+}
+input { height: 24px; float: left; width: 80px; }
